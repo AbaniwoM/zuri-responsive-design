@@ -354,6 +354,7 @@ div.footer h6 {
 
 @media screen and (max-width:768px) {
     div .background {
+        width: fit-content;
         height: 420px;
     }
 
@@ -362,7 +363,7 @@ div.footer h6 {
     }
 
     div .background p {
-        padding: 1rem;
+        padding: 0.5rem;
     }
 
     div.snapshot-box {
